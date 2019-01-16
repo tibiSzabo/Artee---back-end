@@ -1,4 +1,4 @@
-package com.petproject.egeszsegere;
+package com.petproject.artee;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

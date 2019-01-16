@@ -1,4 +1,4 @@
-package com.petproject.egeszsegere.model;
+package com.petproject.artee.model;
 
 import javax.persistence.*;
 import java.util.Date;

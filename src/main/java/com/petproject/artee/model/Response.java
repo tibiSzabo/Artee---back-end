@@ -1,7 +1,6 @@
-package com.petproject.egeszsegere.model;
+package com.petproject.artee.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import org.springframework.stereotype.Component;
 
 public class Response {
 

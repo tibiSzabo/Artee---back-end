@@ -1,13 +1,11 @@
-package com.petproject.egeszsegere.service;
+package com.petproject.artee.service;
 
-import com.petproject.egeszsegere.model.Article;
-import com.petproject.egeszsegere.model.Category;
-import com.petproject.egeszsegere.repository.ArticleRepository;
-import com.petproject.egeszsegere.repository.CategoryRepository;
+import com.petproject.artee.model.Article;
+import com.petproject.artee.model.Category;
+import com.petproject.artee.repository.ArticleRepository;
+import com.petproject.artee.repository.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import java.sql.SQLException;
 
 @Service
 public class DataManagementService {

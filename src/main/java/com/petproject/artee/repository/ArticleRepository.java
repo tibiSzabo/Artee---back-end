@@ -1,7 +1,7 @@
-package com.petproject.egeszsegere.repository;
+package com.petproject.artee.repository;
 
 
-import com.petproject.egeszsegere.model.Article;
+import com.petproject.artee.model.Article;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,11 +1,11 @@
-package com.petproject.egeszsegere;
+package com.petproject.artee;
 
-import com.petproject.egeszsegere.model.Article;
-import com.petproject.egeszsegere.model.Category;
-import com.petproject.egeszsegere.model.Response;
-import com.petproject.egeszsegere.repository.ArticleRepository;
-import com.petproject.egeszsegere.repository.CategoryRepository;
-import com.petproject.egeszsegere.service.DataManagementService;
+import com.petproject.artee.model.Article;
+import com.petproject.artee.model.Category;
+import com.petproject.artee.model.Response;
+import com.petproject.artee.repository.ArticleRepository;
+import com.petproject.artee.repository.CategoryRepository;
+import com.petproject.artee.service.DataManagementService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

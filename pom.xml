@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.petproject</groupId>
-    <artifactId>egeszsegere</artifactId>
+    <artifactId>Artee</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>egeszsegere</name>
-    <description>Backend for the project: &#39;egeszsegere&#39;</description>
+    <name>Artee</name>
+    <description>Backend for the project: &#39;Artee&#39;</description>
 
     <properties>
         <java.version>1.8</java.version>
